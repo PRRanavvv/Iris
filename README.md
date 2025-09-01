@@ -1,4 +1,4 @@
-# Iris Flower Classification with K-Nearest Neighbors (KNN)
+# Iris Flower Classification with K-Nearest Neighbors (KNN
 
 This Jupyter notebook demonstrates the classification of iris flower species using the K-Nearest Neighbors (KNN) algorithm. The project includes data preprocessing, model training, evaluation, and visualization of results.
 
